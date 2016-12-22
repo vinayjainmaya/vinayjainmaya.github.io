@@ -10,6 +10,7 @@ body{
     word-spacing: 10px; 
     font-weight: 700; 
     font-size: 50px;
+    color: #E8F8F5;
 }
 
 .subheadding{
@@ -22,11 +23,11 @@ body{
     top: -30px;
     text-align: center;
 }
-.contentdiv 
+.content-div 
 {
     width: 70%;
     text-align: center; 
-    background-color: #fff; 
+    background-color: #E8F8F5; 
     margin: 0 auto; 
 }
 .social-div
