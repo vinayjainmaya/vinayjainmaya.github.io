@@ -7,15 +7,15 @@ body{
 
 .headding{
     font-family: "Montserrat",sans-serif;
-    word-spacing: 10px; 
-    font-weight: 700; 
+    word-spacing: 10px;
+    font-weight: 700;
     font-size: 50px;
     color: #E8F8F5;
 }
 
 .subheadding{
     font-family: "Montserrat",sans-serif;
-    font-weight: 700; 
+    font-weight: 700;
     font-size: 15px;
     color: #B6B3B3;
     position: relative;
@@ -23,20 +23,20 @@ body{
     top: -30px;
     text-align: center;
 }
-.content-div 
+.content-div
 {
     width: 70%;
-    text-align: left; 
-    background-color: #E8F8F5; 
-    margin: 0 auto; 
+    text-align: center;
+    background-color: #E8F8F5;
+    margin: 0 auto;
     padding: 15px;
 }
 .social-div
 {
-    text-align: right; 
-    position: relative; 
-    bottom: 1px; 
-    right: 15px; 
+    text-align: right;
+    position: relative;
+    bottom: 1px;
+    right: 15px;
 }
 
 p{
