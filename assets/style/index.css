@@ -44,7 +44,9 @@ p{
     letter-spacing: 0px;
 }
 
-
+a:visited {color:#fff;}
+a:hover {color:#34495E;}
+a:active {color:#fff;}
 
 
 
